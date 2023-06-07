@@ -73,7 +73,8 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://flyrr.xyz/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=下次你路过 人间已无我;console.log(%22Hello%EF%BC%8Cworld%22)">
+    <!-- <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=下次你路过 人间已无我;console.log(console.log('Hello,world!'))"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E4%B8%8B%E6%AC%A1%E4%BD%A0%E8%B7%AF%E8%BF%87+%E4%BA%BA%E9%97%B4%E5%B7%B2%E6%97%A0%E6%88%91;console.log('Hello%2Cworld!')" />
   </a>
 </h1>
 
