@@ -82,8 +82,10 @@
 > **I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊**
 <div align="center">
   <a href="https://github.com/Cranberrycrisp"><img src="https://stats.justsong.cn/api/github?username=Cranberrycrisp&theme=dark"/></a>
-  <a href="https://space.bilibili.com/13592328"><img src="https://stats.justsong.cn/api/bilibili/?id=13592328&theme=dark&lang=zh-CN"/></a>
-  <a href="https://blog.csdn.net/qq_38710789"><img src="https://stats.justsong.cn/api/csdn?id=qq_38710789&theme=dark&lang=zh-CN"/></a>
+  <!-- <a href="https://github.com/Cranberrycrisp"><img src="https://stats.justsong.cn/api/github?username=Cranberrycrisp&theme=dark&lang=zh-CN"/></a> -->
+
+  <a href="https://space.bilibili.com/13592328"><img src="https://stats.justsong.cn/api/bilibili/?id=13592328&theme=dark"/></a>
+  <a href="https://blog.csdn.net/qq_38710789"><img src="https://stats.justsong.cn/api/csdn?id=qq_38710789&theme=dark"/></a>
   <!-- <a href="https://leetcode.cn/u/ran-mm4/"><img src="https://stats.justsong.cn/api/leetcode/?username=然&theme=dark&lang=zh-CN"/></a> -->
   <!-- <a href="https://leetcode.cn/u/ran-mm4/"><img src="https://stats.justsong.cn/api/leetcode/?username=ran-mm4&theme=dark&lang=zh-CN"/></a> -->
 
