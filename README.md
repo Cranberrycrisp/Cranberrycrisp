@@ -14,7 +14,7 @@
 
 -💬Inquire me about Python, web scraping and my projects at [flyrr0331@gmail.com](Ran:flyrr0331@gmail.com).
 
--⚡Interests: Data Analysis📊, Web Scraping🕷️, AIGC🤖, AI Q&A💬
+-⚡Interests: Data Analysis📊, Web Scraping🕷️, AIGC🤖, LLM💬
 
 <br>
 
@@ -26,7 +26,7 @@
 -💬在[flyrr0331@gmaill.com](邮箱:flyrr0331@gmaill.com)询问我关于Python, 爬虫和我的项目的问题。
 
 
--⚡兴趣:数据分析📊、爬虫🕷️、AIGC🤖、AI Q&A💬
+-⚡兴趣:数据分析📊、爬虫🕷️、AIGC🤖、LLM💬
 
 ---
 
