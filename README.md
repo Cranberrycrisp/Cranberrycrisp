@@ -1,12 +1,12 @@
 #  Hi there 👋
 
-<!-- 敲代码的图片 -->
-<!-- <div align="center" ><img order-radius="100px" src="https://raw.githubusercontent.com/Cranberrycrisp/img/main/blog/pusheencode.gif"/></div> -->
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Cranberrycrisp/img/main/blog/pusheencode.gif" />
+
 
 
 ## I'm Ran
-
+<!-- 敲代码的图片 -->
+<!-- <div align="center" ><img order-radius="100px" src="https://raw.githubusercontent.com/Cranberrycrisp/img/main/blog/pusheencode.gif"/></div> -->
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Cranberrycrisp/img/main/blog/pusheencode.gif" />
 
 -👨‍💻A software engineering undergraduate student. An open source enthusiast.
 
